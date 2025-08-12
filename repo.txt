@@ -1,0 +1,15 @@
+# ATS Dashboard
+
+A modular, Python-powered Streamlit dashboard for visualizing FINRA ATS (Alternative Trading Systems) trade data. Built for independent market analysis with automation, transparency, and macro overlays.
+
+## 🚀 Features
+
+- Download and parse weekly ATS ZIP files from FINRA
+- Visualize volume trends by ticker and venue
+- Filter trades by date range, symbol, and platform
+- Compare across dark pools, with technical indicators (MA, RSI)
+- Overlay macro data (VIX, CPI, Fed Funds Rate)
+- Custom theming via `.streamlit/config.toml`
+- Secrets management for local or cloud deployment
+
+## 📁 Project Structure
